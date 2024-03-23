@@ -1,4 +1,6 @@
-vertices=3
+vertices=4
+
+
 
 
 def print_matrix(distance2):
